@@ -1,0 +1,6 @@
+openaikey = ''
+zapierkey= ''
+elevenlabskey = ''
+gkey = ''
+cse_id =''
+serper_key = ''
